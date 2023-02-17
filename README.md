@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+My first repositorY
+I am SHAIK MOHAMMED WASIM pursuing B.Tech in Mahindra University
